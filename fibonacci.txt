@@ -1,0 +1,24 @@
+How many Fibonacci numbers to generate? (2 <= x <= 19) The Fibonacci numbers are:
+1
+1
+2
+3
+5
+8
+13
+21
+34
+55
+89
+144
+233
+377
+610
+How many Fibonacci numbers to generate? (2 <= x <= 19) The Fibonacci numbers are:
+1
+1
+2
+3
+5
+8
+13
