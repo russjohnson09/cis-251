@@ -1,0 +1,26 @@
+1. server
+2. petabyte
+3. supercomputer
+4. virtual worlds
+5. RAM
+6. CPU
+7. data centers
+8. multicore processors
+9. low-end server
+10. embedded computers
+11. VHDL
+12. desktop computers
+13. compiler
+14. assembler
+15. Cobol
+16. machine language
+17. instruction
+18. Fortran
+19. assembly language
+20. operating system
+21. application software
+22. bit
+23. system software
+24. C
+25. high-level language
+26. terabyte 
