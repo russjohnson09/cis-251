@@ -6,6 +6,7 @@
 static char syscall_buf[256];
 #define syscall_read_int()          atoi(fgets(syscall_buf,256,stdin))
 
+int
 main()
 {
     int input;
